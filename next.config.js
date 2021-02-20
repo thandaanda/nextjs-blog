@@ -11,6 +11,5 @@ module.exports = {
         destination: 'https://gatsby-draftbox-balsa-starter.vercel.app/blog/:slug*',
       }
     ]
-  },
-  trailingSlash: false
+  }
 }
