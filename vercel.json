@@ -1,4 +1,4 @@
-"redirects": [
+{"redirects": [
     {
       "source": "/blog",
       "destination": "/blog/",
@@ -9,4 +9,4 @@
       "destination": "/nginx/",
       "permanent": false
     }
- ]
+ ]}
