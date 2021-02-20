@@ -1,12 +1,12 @@
 {"redirects": [
     {
-      "source": "/blog",
-      "destination": "/blog/",
+      "source": "/blog/",
+      "destination": "/blog",
       "permanent": false
     },
     {
-      "source": "/nginx",
-      "destination": "/nginx/",
+      "source": "/nginx/",
+      "destination": "/nginx",
       "permanent": false
     }
  ]}
